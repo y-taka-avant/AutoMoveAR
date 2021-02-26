@@ -1,5 +1,8 @@
 # AutoMoveAR
 
+![out](https://user-images.githubusercontent.com/78395651/109278646-19cb2480-785c-11eb-9cd8-37886a68871f.gif)
+
+
 ## Overview
 LiDARを使って認識したAR空間を3Dモデルが自動で動き回るサンプルです。
 
