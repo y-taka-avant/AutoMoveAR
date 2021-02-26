@@ -20,5 +20,6 @@ LiDARの搭載されたiOSデバイス
 [twitter](https://twitter.com/LabAvant)
 
 ## Licence
-[MIT Licence]()
+[MIT Licence](https://github.com/y-taka-avant/AutoMoveAR/blob/main/LICENSE)
+
 なお、本リポジトリに公開されているソースコードは、アヴァント株式会社が準委任・請負契約により開発したシステムに関するものは含まれておりません。
