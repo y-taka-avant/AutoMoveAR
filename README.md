@@ -28,4 +28,6 @@ LiDARの搭載されたiOSデバイス（2021年2月現在）
 ## Licence
 [MIT Licence](https://github.com/y-taka-avant/AutoMoveAR/blob/main/LICENSE)
 
+ただし、Extensions.swiftのみ、ファイル中に本許諾表示の記載があります。
+
 なお、本リポジトリに公開されているソースコードは、アヴァント株式会社が準委任・請負契約により開発したシステムに関するものは含まれておりません。
