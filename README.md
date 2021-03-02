@@ -1,16 +1,22 @@
 # AutoMoveAR
 
+![out](https://user-images.githubusercontent.com/78395651/109278646-19cb2480-785c-11eb-9cd8-37886a68871f.gif)
+
+
 ## Overview
 LiDARを使って認識したAR空間を3Dモデルが自動で動き回るサンプルです。
 
 ## Requirement
 XCode12.4
+
 Swift5.3
+
 iOS14.4
 
-LiDARの搭載されたiOSデバイス
-2021年2月現在
+LiDARの搭載されたiOSデバイス（2021年2月現在）
+
 ・iPadPro(2020)
+
 ・iPhone12Pro
 
 ## How to Start
