@@ -15,6 +15,7 @@
 		F458425625E8D72A005361F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F458425425E8D72A005361F2 /* LaunchScreen.storyboard */; };
 		F458426125E8D72A005361F2 /* AutoMoveARTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F458426025E8D72A005361F2 /* AutoMoveARTests.swift */; };
 		F458426C25E8D72A005361F2 /* AutoMoveARUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F458426B25E8D72A005361F2 /* AutoMoveARUITests.swift */; };
+		F497EB3925EE35E600125972 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F497EB3825EE35E600125972 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F458426725E8D72A005361F2 /* AutoMoveARUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutoMoveARUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F458426B25E8D72A005361F2 /* AutoMoveARUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoMoveARUITests.swift; sourceTree = "<group>"; };
 		F458426D25E8D72A005361F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F497EB3825EE35E600125972 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				F458424925E8D728005361F2 /* AppDelegate.swift */,
 				F458424B25E8D728005361F2 /* ViewController.swift */,
+				F497EB3825EE35E600125972 /* Extensions.swift */,
 				F458424D25E8D728005361F2 /* Experience.rcproject */,
 				F458424F25E8D728005361F2 /* Main.storyboard */,
 				F458425225E8D72A005361F2 /* Assets.xcassets */,
@@ -261,6 +264,7 @@
 				F458424C25E8D728005361F2 /* ViewController.swift in Sources */,
 				F458424A25E8D728005361F2 /* AppDelegate.swift in Sources */,
 				F458424E25E8D728005361F2 /* Experience.rcproject in Sources */,
+				F497EB3925EE35E600125972 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
